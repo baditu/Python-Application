@@ -20,6 +20,6 @@
   How to launch application
   -------------------------------
   1. Check that you have Python 3.9 and Pycharm
-  2. Cloeth code: https://github.com/baditu/Python-Application/tree/master
+  2. Clone the code: https://github.com/baditu/Python-Application/tree/master
   3. Run the code in Pycharm
   4. Ready!
